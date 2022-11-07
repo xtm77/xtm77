@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @xtm77
 - 👀 I’m interested in Spring Boot, JPA, Vue.js, Swift, Kotlin, Go and Kubernetes
-- 🌱 I’m currently learning Swift!!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS!!
 - 📫 How to reach me on my email(xtream77@gmail.com)
